@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PaulLuqueCcosi 11/8/2022 11:00",
+	"super" : "Object",
+	"category" : "MyCounter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"count"
+	],
+	"name" : "Counter",
+	"type" : "normal"
+}
