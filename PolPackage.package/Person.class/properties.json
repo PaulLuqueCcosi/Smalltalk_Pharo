@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PaulLuqueCcosi 11/7/2022 22:09",
+	"super" : "Object",
+	"category" : "PolPackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"agge"
+	],
+	"name" : "Person",
+	"type" : "normal"
+}
